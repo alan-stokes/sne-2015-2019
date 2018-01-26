@@ -4,18 +4,6 @@
 		"name":"ASASSN-15al",
 		"sources":[
 			{
-				"name":"2016arXiv160708526C",
-				"bibcode":"2016arXiv160708526C",
-				"reference":"Childress et al. (2016)",
-				"alias":"1"
-			},
-			{
-				"name":"2016A&A...594A..13P",
-				"bibcode":"2016A&A...594A..13P",
-				"reference":"Planck Collaboration et al. (2016)",
-				"alias":"2"
-			},
-			{
 				"name":"2015ATel.6894....1H",
 				"bibcode":"2015ATel.6894....1H",
 				"reference":"Holoien et al. (2015)",
